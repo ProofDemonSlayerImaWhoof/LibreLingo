@@ -10,7 +10,7 @@ readme = "README.md"
 python = "^3.8"
 librelingo-types = "^3.0.0"
 librelingo-utils = "^2.4.0"
-python-slugify = "^4.0.1"
+python-slugify = "^5.0.0"
 librelingo-yaml-loader = "^1.0.0"
 editdistance = "^0.5.3"
 hunspell = { version = "^0.5.5", optional = true }
