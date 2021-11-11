@@ -76,7 +76,7 @@
     "babel-jest": "27.2.4",
     "babel-plugin-istanbul": "6.0.0",
     "bulmaswatch": "0.8.1",
-    "copy-webpack-plugin": "5.1.2",
+    "copy-webpack-plugin": "9.1.0",
     "css-loader": "5.2.7",
     "cy-tkey-screenshot": "0.0.1",
     "cypress": "8.5.0",
